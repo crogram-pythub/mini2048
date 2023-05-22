@@ -1,0 +1,1 @@
+pyinstaller -y --noconfirm build.spec
